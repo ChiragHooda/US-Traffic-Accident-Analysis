@@ -69,6 +69,7 @@ This project contains an end-to-end Exploratory Data Analysis (EDA) of over **7 
 ## 📌 File Structure
 
 #### ├── Exploratory_Data_Analysis_US_Accidents_final-2.ipynb # Main analysis notebook
-#### ├── environment.yml # Conda environment for reproducibility
+#### ├── requirements.txt # for dependencies
 #### ├── README.md # This file
 #### ├── /images # Folder to store visualizations/screenshots
+#### ├── .gitattributes
