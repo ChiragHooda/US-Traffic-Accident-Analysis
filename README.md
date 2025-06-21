@@ -63,3 +63,12 @@ This project contains an end-to-end Exploratory Data Analysis (EDA) of over **7 
 
 ### 👁️ Visibility at the Time of Accidents
 ![Visibility at Time of Accidents](images/visibility_at_time_of_accidents.png)
+
+---
+
+## 📌 File Structure
+
+#### ├── Exploratory_Data_Analysis_US_Accidents_final-2.ipynb # Main analysis notebook
+#### ├── environment.yml # Conda environment for reproducibility
+#### ├── README.md # This file
+#### ├── /images # Folder to store visualizations/screenshots
